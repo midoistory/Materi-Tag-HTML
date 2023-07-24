@@ -36,12 +36,12 @@ Penjelasan :
 - `<a>` membuat hyperlink 
 - `<img...>` menampilkan gambar di halaman web 
 - `<ul>` membuat daftar tidak berurutan dengan bullet (unordered list) 
-- `<ol>` membuat daftar berurutandaftar berurutan dengan nomor atau huruf (ordered list) 
-- `<li>` mendefinisikan setiap item dalam daftar. Tag ini selalu digunakan di dalam <ul> atau <ol> 
+- `<ol>` membuat daftar berurutandaftar berurutan dengan nomor atau huruf (ordered list)
 - `<table>` membuat sebuah tabel di halaman web 
 - `<th>` mendefinisikan sel data header dalam tabel 
 - `<tr>` mendefinisikan baris (row) dalam tabel 
 - `<td>` mendefinisikan sel data biasa dalam tabel 
+- `<li>` mendefinisikan setiap item dalam daftar. Tag ini selalu digunakan di dalam <ul> atau <ol> 
 
 ### - Formulir
 - `<form>` membuat formulir di halaman web untuk mengumpulkan data dari pengguna 

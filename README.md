@@ -37,22 +37,22 @@ Penjelasan :
 - `<img...>` menampilkan gambar di halaman web 
 - `<ul>` membuat daftar tidak berurutan dengan bullet (unordered list) 
 - `<ol>` membuat daftar berurutandaftar berurutan dengan nomor atau huruf (ordered list)
+- `<li>` mendefinisikan setiap item dalam daftar. Tag ini selalu digunakan di dalam `<ul>` atau `<ol>` 
 - `<table>` membuat sebuah tabel di halaman web 
 - `<th>` mendefinisikan sel data header dalam tabel 
 - `<tr>` mendefinisikan baris (row) dalam tabel 
 - `<td>` mendefinisikan sel data biasa dalam tabel 
-- `<li>` mendefinisikan setiap item dalam daftar. Tag ini selalu digunakan di dalam <ul> atau <ol> 
 
 ### - Formulir
 - `<form>` membuat formulir di halaman web untuk mengumpulkan data dari pengguna 
 - `<input>` mendapatkan berbagai jenis masukan dari pengguna, seperti teks, kata sandi, dan tombol 
 - `<select>` membuat elemen pilihan (dropdown list) dalam formulir 
-- `<option>` mendefinisikan setiap opsi dalam elemen <select> 
+- `<option>` mendefinisikan setiap opsi dalam elemen `<select>` 
 - `<textarea>` membuat area teks multi-baris dalam formulir 
 - `<button>` mmembuat tombol yang dapat mengirimkan formulir atau memicu fungsi JavaScript saat ditekan
 - `<label>` memberi label pada elemen masukan dalam formulir 
 - `<fieldset>` mengelompokkan beberapa elemen formulir menjadi satu kelompok yang terkait 
-- `<legend>` memberikan judul atau deskripsi singkat untuk kelompok elemen yang terkandung dalam <fieldset> 
+- `<legend>` memberikan judul atau deskripsi singkat untuk kelompok elemen yang terkandung dalam `<fieldset>`
 
 ### - Multimedia
 - `<video>` menyisipkan atau menampilkan video di halaman web 
@@ -62,7 +62,7 @@ Penjelasan :
 ### - Gaya dan Penyusunan
 - `<div>` mengelompokkan dan memanipulasi blok konten secara keseluruhan
 - `<span>` memformat atau menandai sebagian kecil teks atau elemen dalam sebuah kalimat atau paragraf 
-- `<style>` menentukan aturan CSS |
+- `<style>` menentukan aturan CSS
 
 ### - Konten Tambahan
 - `<header>` menandai area atau bagian atas halaman web 

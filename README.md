@@ -2,8 +2,8 @@
 ## Pengertian
 HTML terdiri dari komponen yang disebut **HTML Tag**
 ada dua tipe HTML Tag, yaitu :
-- **Opening Tag** - contohnya <h1>
-- **Closing Tag** - contohnya </h1>
+
+Tag Pembuka _Opening Tag_ contohnya <h1> dan Tag Penutup _Closing tag_ </h1>
 
 Setiap tag HTML dimulai dengan tanda "<" (kurung siku buka) dan diakhiri dengan tanda ">" (kurung siku tutup). Tag ini memberi tahu browser bagaimana mengatur dan menampilkan informasi pada halaman web.
 
@@ -26,9 +26,9 @@ Penjelasan :
 | Tag HTML | Fungsinya |
 | ------ | ------ |
 | <!DOCTYPE> | mendefinisikan bahwa dokumen ini adalah HTML5 |
-| <html> | mendefinisikan bahwa dokumen ini adalah dokumen HTML |
-| <head> | menyimpan informasi metadata dan elemen lain yang tidak terlihat pada browser |
-| <title> | menentukan judul halaman web |
+| <html></html> | mendefinisikan bahwa dokumen ini adalah dokumen HTML |
+| <head></head> | menyimpan informasi metadata dan elemen lain yang tidak terlihat pada browser |
+| <title></title> | menentukan judul halaman web |
 | <meta> | memberikan informasi tambahan tentang halaman web |
 | <link> |menghubungkan halaman web dengan berkas eksternal, seperti stylesheet CSS |
 | <body> | berisi konten website yang ingin ditampilkan pada browser |

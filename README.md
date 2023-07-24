@@ -24,10 +24,8 @@ Secara umum, struktur dokumen HTML dituliskan sebagai berikut :
 </html>
 ```
 Penjelasan :
-| Tag HTML | Fungsinya |
-| ------ | ------ |
-| <!DOCTYPE> | mendefinisikan bahwa dokumen ini adalah HTML5 |
-| <html>...</html> | mendefinisikan bahwa dokumen ini adalah dokumen HTML |
+- '<!DOCTYPE>' untuk mendefinisikan bahwa dokumen ini adalah HTML5 
+- <html>' mendefinisikan bahwa dokumen ini adalah dokumen HTML 
 | <head>...</head> | menyimpan informasi metadata dan elemen lain yang tidak terlihat pada browser |
 | <title>...</title> | menentukan judul halaman web |
 | <meta> | memberikan informasi tambahan tentang halaman web |
